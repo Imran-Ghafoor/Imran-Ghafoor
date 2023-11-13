@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Imran Ghafoor</h1>
 <h3 align="center">A Passionate Software Developer from Pakistan</h3>
 
+<img align="right" alt="coding" width="400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imran-ghafoor&label=Profile%20views&color=0e75b6&style=flat" alt="imran-ghafoor" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imran_gh427" target="blank"><img src="https://img.shields.io/twitter/follow/imran_gh427?logo=twitter&style=for-the-badge" alt="imran_gh427" /></a> </p>
